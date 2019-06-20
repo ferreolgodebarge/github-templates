@@ -1,5 +1,5 @@
 ---
-name: "\U0001F4A6 Patch"
+name: "\U0001F47D Patch"
 about: Bug fixes
 title: "[Patch]"
 labels: patch
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# :droplets: Patch
+# :alien: Patch
 
 ## Changes
 
