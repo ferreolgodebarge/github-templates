@@ -1,5 +1,5 @@
 ---
-name: ":rocket: Feature request"
+name: "\U0001f680 Feature request"
 about: Suggest a new feature in this repository
 title: "[Feature Request]"
 labels: enhancement
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Feature Request
+# \U0001f680 Feature Request
 
 ## Lack
 
