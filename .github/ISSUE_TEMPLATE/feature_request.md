@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# \U0001f680 Feature Request
+# :rocket: Feature Request
 
 ## Lack
 
