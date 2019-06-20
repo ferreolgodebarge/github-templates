@@ -1,5 +1,5 @@
 ---
-name: ":fire: Bug report"
+name: "\U0001f525 Bug report"
 about: Raise a bug
 title: "[Bug report]"
 labels: bug
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Bug report
+# :fire: Bug report
 
 ## Problem encountered
 
