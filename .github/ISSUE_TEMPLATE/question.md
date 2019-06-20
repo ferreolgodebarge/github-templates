@@ -1,5 +1,5 @@
 ---
-name: ":question: Question"
+name: "\u2753 Question"
 about: Ask a question
 title: "[Question]"
 labels: question
@@ -7,7 +7,7 @@ assignees: ''
 
 ---
 
-# Question
+# :question: Question
 
 ## Expose your question
 
